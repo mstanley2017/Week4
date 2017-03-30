@@ -1,0 +1,14 @@
+Package: CourseraAssignment
+Type: Package
+Title: Year-wise fatality summaries
+Version: 0.1.0
+Authors@R: person("Michelle", "Stanley", email = "mstanley81@gmail.com", role = c("aut", "cre"))
+Description: "This package helps display year-wise fatality summaries and represents them in the form of state maps"
+License: CC0
+LazyData: TRUE
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
+
